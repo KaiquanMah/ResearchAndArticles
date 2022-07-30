@@ -1,2 +1,3 @@
 # ResearchAndArticles
-Research and article samples
+Welcome!
+You can find some of my past final year research project and article samples here.
